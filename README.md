@@ -35,19 +35,21 @@ to ensure consistency and completeness.
 
 ### Images
 
-- [ ] Use WebP images to reduce filesize
-- [ ] Use image CDN's to transform, optimize and deliver images
-- [ ] Serve responsive images and use srcset and sizes attributes to serve images to different display densities
-- [ ] Set image dimensions (height and width attributes) to improve page load time
-- [ ] Use imagemin to compress images
-- [ ] Replace animated GIF's with video for faster page loads
-- [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource 
+- [ ] **WebP** is used to transform images to reduce filesize
+- [ ] **CDN** is used to transform, optimize and deliver images
+- [ ] **Responsive** images are served and use srcset and sizes attributes to serve images to different display densities
+- [ ] **Dimensions** (height and width attributes) are set on images to improve page load time
+- [ ] **Imagemin** is used to compress images
+- [ ] **GIF's** are replaced by video for faster page loads
+- [ ] **Lazy-loading** is done for all applicable image
 
 ### HTML
 
 ### CSS
+- [ ] **Minification** is done for all files
 
 ### JavaScript
+- [ ] **Minification** is done for all files
 
 ### Fonts
 
