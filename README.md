@@ -20,6 +20,7 @@ to ensure consistency and completeness.
 - [SEO](#seo)
 - [Progressive Web App](#progressive-web-app)
 - [References](#references)
+- [License](#license)
 
 ## Performance
 
@@ -49,3 +50,7 @@ to ensure consistency and completeness.
 
 - 📚 [Google Developers - Web.dev vitals](https://web.dev/vitals/)
 - 📚 [Google Developers - Web Fundamentals](https://developers.google.com/web/fundamentals)
+
+## Licenses
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
