@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Performance](#performance)
+  - [Images](#images)
 - [References](#references)
 
 ## Performance
