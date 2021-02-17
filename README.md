@@ -31,17 +31,12 @@ to ensure consistency and completeness.
 - [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource usage
 
 ### CSS
-- [ ] Minify CSS
 
 ### JavaScript
-- [ ]
 
 ### Fonts
-- [ ]
 
 ### Scripts
-- [ ]
-
 ## Acessibility
 
 ## SEO
