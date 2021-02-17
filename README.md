@@ -26,8 +26,11 @@ to ensure consistency and completeness.
 - [License](#license)
 
 ## Head
-- [ ] Viewport meta tag `<meta name="viewport" content="width=device-width, initial-scale=1">`
-- [ ] Language attribute `<html lang="en">`
+- [ ] **Viewport meta tag** is declared correctly `<meta name="viewport" content="width=device-width, initial-scale=1">`
+- [ ] **Language attribute** `<html lang="en">`
+- [ ] **Favicon** is set and displayed correctly
+- [ ] **Title** is used on all pages
+- [ ] **Description meta tag** is used on all pages and unique for each page
 ## Performance
 
 ### Images
