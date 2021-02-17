@@ -25,4 +25,5 @@ to ensure consistency and completeness.
 
 ## References
 
-- https://web.dev/vitals/
+- 📚 [Google Developers - Web.dev vitals](https://web.dev/vitals/)
+- 📚 [Google Developers - Web Fundamentals](https://developers.google.com/web/fundamentals)
