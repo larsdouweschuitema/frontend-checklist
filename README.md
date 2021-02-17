@@ -10,6 +10,7 @@ to ensure consistency and completeness.
 
 ## Table of contents
 
+- [Head](#head)
 - [Performance](#performance)
   - [Images](#images)
   - [HTML](#html)
@@ -24,6 +25,9 @@ to ensure consistency and completeness.
 - [References](#references)
 - [License](#license)
 
+## Head
+- [ ] Viewport meta tag
+- [ ] Language attribute
 ## Performance
 
 ### Images
@@ -34,7 +38,7 @@ to ensure consistency and completeness.
 - [ ] Set image dimensions (height and width attributes) to improve page load time
 - [ ] Use imagemin to compress images
 - [ ] Replace animated GIF's with video for faster page loads
-- [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource usage
+- [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource 
 
 ### HTML
 
