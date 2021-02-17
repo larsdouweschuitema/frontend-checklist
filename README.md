@@ -10,6 +10,13 @@ to ensure consistency and completeness.
 
 - [Performance](#performance)
   - [Images](#images)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
+  - [Fonts](#fonts)
+  - [Scripts](#scripts)
+- [Accessibility](#accessibility)
+- [SEO](#seo)
+- [Progressive Web App](#progressive-web-app)
 - [References](#references)
 
 ## Performance
@@ -22,6 +29,24 @@ to ensure consistency and completeness.
 - [ ] Use imagemin to compress images
 - [ ] Replace animated GIF's with video for faster page loads
 - [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource usage
+
+### CSS
+- [ ] Minify CSS
+
+### JavaScript
+- [ ]
+
+### Fonts
+- [ ]
+
+### Scripts
+- [ ]
+
+## Acessibility
+
+## SEO
+
+## Progressive Web App
 
 ## References
 
