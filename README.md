@@ -26,8 +26,8 @@ to ensure consistency and completeness.
 - [License](#license)
 
 ## Head
-- [ ] Viewport meta tag
-- [ ] Language attribute
+- [ ] Viewport meta tag `<meta name="viewport" content="width=device-width, initial-scale=1">`
+- [ ] Language attribute `<html lang="en">`
 ## Performance
 
 ### Images
