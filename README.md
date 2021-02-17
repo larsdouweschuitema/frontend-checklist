@@ -12,12 +12,14 @@ to ensure consistency and completeness.
 
 - [Performance](#performance)
   - [Images](#images)
+  - [HTML](#html)
   - [CSS](#css)
   - [JavaScript](#javascript)
   - [Fonts](#fonts)
   - [Scripts](#scripts)
 - [Accessibility](#accessibility)
 - [SEO](#seo)
+- [Security](#security)
 - [Progressive Web App](#progressive-web-app)
 - [References](#references)
 - [License](#license)
@@ -33,6 +35,8 @@ to ensure consistency and completeness.
 - [ ] Replace animated GIF's with video for faster page loads
 - [ ] Use lazy-loading to improve loading speed to reduce initial page load time, initial page weight and system resource usage
 
+### HTML
+
 ### CSS
 
 ### JavaScript
@@ -43,6 +47,8 @@ to ensure consistency and completeness.
 ## Acessibility
 
 ## SEO
+
+## Security
 
 ## Progressive Web App
 
