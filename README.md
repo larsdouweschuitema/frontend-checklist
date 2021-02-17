@@ -1,5 +1,7 @@
 # Frontend checklist
 
+This is a technology stack agnostic checklist and therefore it does not care about what framework you decide to use.
+
 ## Why?
 
 Frontend is extremely complicated. There are (too) many topics to cover for a single person as part of a development team.
