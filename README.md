@@ -1,5 +1,11 @@
 # Frontend checklist
 
+## Why?
+
+Frontend is extremely complicated. There are (too) many topics to cover for a single person as part of a development team.
+This checklist helps reducing the failure by compensating for potential limits and human memory and attention. It helps
+to ensure consistency and completeness.
+
 ## Table of contents
 
 - [Performance](#performance)
